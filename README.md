@@ -33,21 +33,16 @@ We have found that the program handles workloads efficiently across all tested s
 ## Example Outputs
 
 Test Case 1: Small Values
-
-[ screenshot ]
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/main/screenshots/ss%20(1).png" alt="Test Case 1 Screenshot" width="800"> </p>
 
 Test Case 2: Zero Acceleration
-
-[ screenshot ]
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/main/screenshots/ss%20(2).png" alt="Test Case 2 Screenshot" width="800"> </p>
 
 Test Case 3: Negative Acceleration (Deceleration)
-
-[ screenshot ]
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/main/screenshots/ss%20(3).png" alt="Test Case 3 Screenshot" width="800"> </p>
 
 Test Case 4: Large Values
-
-[ screenshot ]
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/main/screenshots/ss%20(4).png" alt="Test Case 4 Screenshot" width="800"> </p>
 
 Test Case 5-8: Small (10), Medium (100), Large (1000), and Very Large (10,000) Data Sizes
-
-[ screenshot ]
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/main/screenshots/ss%20(5).png" alt="Test Case 5-8 Screenshot" width="800"> </p>
