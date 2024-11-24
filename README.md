@@ -44,5 +44,5 @@ We have found that the program handles workloads efficiently across all tested s
 **Test Case 4**: Large Values
 <p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/main/screenshots/ss%20(4).png" alt="Test Case 4 Screenshot" width="800"> </p>
 
-**Test Case 5-8**: Small (10), Medium (100), Large (1000), and Very Large (10,000) Data Sizes
+**Test Case 5-8**: Randomly Generated Inputs for Small (10), Medium (100), Large (1000), and Very Large (10,000) Data Sizes
 <p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/main/screenshots/ss%20(5).png" alt="Test Case 5-8 Screenshot" width="800"> </p>
