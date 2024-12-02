@@ -2,6 +2,10 @@
   Analysis of the performance
 </h2>
 
+## Group Members
+1. Ang, Danielle Faith
+2. Geronimo, Jose Angelo
+
 ## Overview
 
 This project involves computing acceleration values using a combination of C and assembly code. The program leverages SIMD instructions for optimized floating-point computations, ensuring efficient performance even with large datasets. It includes both functionality testing and performance testing to evaluate the scalability of the implementation.
@@ -46,3 +50,16 @@ We have found that the program handles workloads efficiently across all tested s
 
 **Test Case 5-8**: Randomly Generated Inputs for Small (10), Medium (100), Large (1000), and Very Large (10,000) Data Sizes
 <p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/main/screenshots/ss%20(5).png" alt="Test Case 5-8 Screenshot" width="800"> </p>
+
+## C Standalone Equivalent Example Outputs
+**Test Case 1**: Small Values
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134734.png" alt="C Standalone Test Case 1 Screenshot" width="800"> </p>
+
+**Test Case 2**: Zero Acceleration
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134739.png" alt="C Standalone Test Case 2 Screenshot" width="800"> </p>
+
+**Test Case 3**: Negative Acceleration (Deceleration)
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134746.png" alt="C Standalone Test Case 3 Screenshot" width="800"> </p>
+
+**Test Case 4**: Large Values
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134814.png" alt="C Standalone Test Case 4 Screenshot" width="800"> </p>
