@@ -2,6 +2,10 @@
   Analysis of the performance
 </h2>
 
+## Group Members
+1. Ang, Danielle Faith
+2. Geronimo, Jose Angelo
+
 ## Overview
 
 This project involves computing acceleration values using a combination of C and assembly code. The program leverages SIMD instructions for optimized floating-point computations, ensuring efficient performance even with large datasets. It includes both functionality testing and performance testing to evaluate the scalability of the implementation.
