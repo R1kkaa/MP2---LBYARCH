@@ -63,3 +63,9 @@ We have found that the program handles workloads efficiently across all tested s
 
 **Test Case 4**: Large Values
 <p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134814.png" alt="C Standalone Test Case 4 Screenshot" width="800"> </p>
+
+**Test Case 5-8**: Randomly Generated Inputs for Small (10), Medium (100), Large (1000), and Very Large (10,000) Data Sizes
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20220423.png" alt="C Standalone Test Case 5 Screenshot" width="800"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20215034.png" alt="C Standalone Test Case 6 Screenshot" width="800"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20215021.png" alt="C Standalone Test Case 7 Screenshot" width="800"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20214955.png" alt="C Standalone Test Case 8 Screenshot" width="800"> </p>
