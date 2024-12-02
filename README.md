@@ -52,7 +52,7 @@ We have found that the program handles workloads efficiently across all tested s
 <p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134734.png" alt="C Standalone Test Case 1 Screenshot" width="800"> </p>
 
 **Test Case 2**: Zero Acceleration
-<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134734.png" alt="C Standalone Test Case 2 Screenshot" width="800"> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134739.png" alt="C Standalone Test Case 2 Screenshot" width="800"> </p>
 
 **Test Case 3**: Negative Acceleration (Deceleration)
 <p align="center"> <img src="https://raw.githubusercontent.com/R1kkaa/MP2---LBYARCH/refs/heads/main/screenshots/Screenshot%202024-12-02%20134746.png" alt="C Standalone Test Case 3 Screenshot" width="800"> </p>
